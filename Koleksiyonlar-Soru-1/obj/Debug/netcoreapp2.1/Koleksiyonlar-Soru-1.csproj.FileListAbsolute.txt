@@ -1,0 +1,11 @@
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.deps.json
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.runtimeconfig.dev.json
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.dll
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\bin\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.pdb
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.csprojAssemblyReference.cache
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.dll
+D:\CSharp101\odev2\Koleksiyonlar-Soru-1\obj\Debug\netcoreapp2.1\Koleksiyonlar-Soru-1.pdb
